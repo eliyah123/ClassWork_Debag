@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\SafeAndSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\SafeAndSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "part2.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part2.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\part2.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part2.cpp",
+              "RelativeToolTip": "SafeAndSound\\part2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T16:41:13.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "part1.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part1.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\part1.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part1.cpp",
+              "RelativeToolTip": "SafeAndSound\\part1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T16:41:12.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SafeAndSound.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\SafeAndSound.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\SafeAndSound.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\SafeAndSound.cpp",
+              "RelativeToolTip": "SafeAndSound\\SafeAndSound.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-08T16:41:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "part2.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part2.h",
+              "RelativeDocumentMoniker": "SafeAndSound\\part2.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part2.h",
+              "RelativeToolTip": "SafeAndSound\\part2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T16:41:10.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "part1.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part1.h",
+              "RelativeDocumentMoniker": "SafeAndSound\\part1.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\DebugWorkshop\\DebugWorkshop\\SafeAndSound\\part1.h",
+              "RelativeToolTip": "SafeAndSound\\part1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-08T16:41:10.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
